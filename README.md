@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="profile.jpg" alt="Reyhan Yildiz" width="600" style="border-radius:50%">
+  <img src="profile.jpg" alt="Reyhan Yildiz" width="800" height="200" style="border-radius:50%">
 </p>
  Hi, I'm Reyhan Yıldız  
 💼 QA Engineer | Antwerp, Belgium  
