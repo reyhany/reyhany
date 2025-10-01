@@ -1,16 +1,54 @@
-## Hi there 👋
+ <p align="center">
+  <img src="profile.jpg" alt="Reyhan Yildiz" width="200" style="border-radius:50%">
+</p>
+ Hi, I'm Reyhan Yıldız  
+💼 QA Engineer | Antwerp, Belgium  
+📍 Antwerp, Belgium  
+📧 breyhanyyildiz@gmail.com  
+📱 +32 497 11 23 55  
+🔗 https://www.linkedin.com/in/reyhan-y-yildiz/
+ 📝 Summary  
+I'm an accomplished, reliable, and detail-oriented QA Engineer with a strong background in software testing and project management.  
+- Specialized in manual and automated testing  
+- Skilled in creating and executing test plans, reporting results, and identifying critical bugs  
+- Experienced in developing and implementing test automation strategies to reduce manual effort and increase test coverage  
+- Strong collaborator with development teams to enhance product quality and customer satisfaction  
+- Knowledgeable in AI-powered testing (GitHub Copilot, Cursor, Windsurf) to enhance efficiency and accelerate bug detection  
 
-<!--
-**reyhany/reyhany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack  
+Testing Types 
+- Acceptance Testing  
+- Functional Testing  
+- Compatibility Testing  
+- Usability Testing  
+- Integration Testing  
+- Regression Testing  
+- E2E Testing  
+- Sanity Testing  
+- Smoke Testing  
 
-Here are some ideas to get you started:
+Tools & Frameworks
+- Java | Selenium | JIRA | TestRail | Cucumber | JUnit | TestNG  
+- Cypress | Playwright | Appium  
+- API Testing: Postman | REST Assured API Automation  
+- CI/CD: Jenkins | GitHub Actions  
+- UX/UI | SDLC | STLC  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases
+- SQL (MySQL), JDBC  
+
+AI Tools 
+- GitHub Copilot | Codeium | Cursor | Windsurf  
+
+🌟 Highlights  
+✔️ Reduced manual testing time by implementing automation strategies  
+✔️ Improved customer satisfaction by collaborating with dev teams to resolve critical bugs  
+✔️ Passion for continuous learning, innovation, and analytical problem solving  
+
+ 🌍 Hobbies & Interests  
+✈️ Traveling  
+📚 Reading  
+🎶 Listening to music  
+🎬 Watching movies  
+
+✨ I believe software should be accurate, reliable, and user-friendly. My goal is to ensure quality at every stage of the development process. 
