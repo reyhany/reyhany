@@ -8,7 +8,7 @@
 📧 breyhanyyildiz@gmail.com  <br>
 📱 +32 497 11 23 55  <br>
 🔗 https://www.linkedin.com/in/reyhan-y-yildiz/ <br>
- **📝 Summary ** 
+ 📝 Summary  
 I'm an accomplished, reliable, and detail-oriented QA Engineer with a strong background in software testing and project management.  
 - Specialized in manual and automated testing  
 - Skilled in creating and executing test plans, reporting results, and identifying critical bugs  
@@ -16,8 +16,8 @@ I'm an accomplished, reliable, and detail-oriented QA Engineer with a strong bac
 - Strong collaborator with development teams to enhance product quality and customer satisfaction  
 - Knowledgeable in AI-powered testing (GitHub Copilot, Cursor, Windsurf) to enhance efficiency and accelerate bug detection  
 
-**🛠️ Tech Stack  **
-*Testing Types *
+🛠️ Tech Stack  
+Testing Types 
 - Acceptance Testing  
 - Functional Testing  
 - Compatibility Testing  
@@ -28,25 +28,25 @@ I'm an accomplished, reliable, and detail-oriented QA Engineer with a strong bac
 - Sanity Testing  
 - Smoke Testing  
 
-*Tools & Frameworks *
+Tools & Frameworks 
 - Java | Selenium | JIRA | TestRail | Cucumber | JUnit | TestNG  
 - Cypress | Playwright | Appium  
 - API Testing: Postman | REST Assured API Automation  
 - CI/CD: Jenkins | GitHub Actions  
 - UX/UI | SDLC | STLC  
 
-*Databases *
+Databases 
 - SQL (MySQL), JDBC  
 
-*AI Tools  
+AI Tools  
 - GitHub Copilot | Codeium | Cursor | Windsurf  
 
-**🌟 Highlights ** 
+🌟 Highlights  
 ✔️ Reduced manual testing time by implementing automation strategies  
 ✔️ Improved customer satisfaction by collaborating with dev teams to resolve critical bugs  
 ✔️ Passion for continuous learning, innovation, and analytical problem solving  
 
- **🌍 Hobbies & Interests  **
+ 🌍 Hobbies & Interests  
 ✈️ Traveling  
 📚 Reading  
 🎶 Listening to music  
